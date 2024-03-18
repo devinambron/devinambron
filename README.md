@@ -6,7 +6,7 @@
 
 🌱 Alongside everyone else, I'm racing to learn the best and most effective ways to utilize AI. I recently read "The Coming Wave" by Mustafa Suleyman and am inspired to help teams build apps on the cutting edge of generative AI.
 
-💼 If you value experience, dependability, strong communication, and timely deliverables, let's collaborate! Here's what I bring to the table:
+💼 If you value experience, dependability, strong communication, and timely delivery, here's what I bring to the table:
 - End-to-End Full Stack Development
 - Database Design and Management
 - Scalable Web Application Engineering

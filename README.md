@@ -4,7 +4,7 @@
 
 👀 Specializing in business based applications, data & cloud migrations, and complex problem-solving. I love making streamlined systems work to enhance human operations while minimizing the downsides of losing the human touch.
 
-🌱 Alongside everyone else, I'm racing to learn the best and most effective ways to utilize AI. I recently read "The Coming Wave" by Mustafa Suleyman and am inspired to be on the right side of generative AI.
+🌱 Alongside everyone else, I'm racing to learn the best and most effective ways to utilize AI. I recently read "The Coming Wave" by Mustafa Suleyman and am inspired to help teams build apps on the cutting edge of generative AI.
 
 💼 If you value experience, dependability, strong communication, and timely deliverables, let's collaborate! Here's what I bring to the table:
 - End-to-End Full Stack Development
@@ -21,6 +21,6 @@
 
 ⚡ Fun fact: I've traveled all lower 48 states in an RV, play rap songs on piano, and have read over 300 books.
 
-💬 Need help with a project? Reach out, and let's chat.
+💬 Need help with a project? Reach out, and let's chat!
 
 📫 How to reach me: devin@ambronenterprises.com

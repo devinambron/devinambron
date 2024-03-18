@@ -2,9 +2,9 @@
 
 👋 Howdy, I'm Devin, a seasoned Full Stack & AI Systems Integrator based in Austin, TX with over 15 years of experience in the tech industry. I craft digital magic with Python, React, Node.js, APIs, MongoDB, and SQL. 
 
-👀 Specializing in data migration and complex problem-solving, I’m on a mission to streamline your tech needs with custom, robust solutions. Whether it's building scalable web applications or integrating cutting-edge tech stacks, I’m your go-to expert.
+👀 Specializing in business based applications, data & cloud migrations, and complex problem-solving. I love making streamlined systems work to enhance human operations while minimizing the downsides of losing the human touch.
 
-🌱 My journey has led me through the alleys of innovation, where I'm continually enhancing my skills to serve you better. Every project is a new opportunity to drive growth and efficiency, ensuring your business stands out in the digital world.
+🌱 Alongside everyone else, I'm racing to learn the best and most effective ways to utilize AI. I recently read "The Coming Wave" by Mustafa Suleyman and am inspired to be on the right side of generative AI.
 
 💼 If you value experience, dependability, strong communication, and timely deliverables, let's collaborate! Here's what I bring to the table:
 - End-to-End Full Stack Development

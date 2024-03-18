@@ -17,7 +17,7 @@
 - Performance Optimization
 - Server Management and Deployment
 
-💡 I'm not just able to write code; I'm an entrepreneur at heart and a techie by trade. I thrive under pressure, love the hardest challenges in tech, and my tech arsenal is Apple dominated.
+💡 I'm not just able to write code; I'm an entrepreneur at heart and a techie by trade. I thrive under pressure and love challenges.
 
 ⚡ Fun fact: I've traveled all lower 48 states in an RV, play rap songs on piano, and have read over 300 books.
 

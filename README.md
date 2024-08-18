@@ -21,6 +21,4 @@
 
 ⚡ Fun fact: I've traveled all lower 48 states in an RV, play rap songs on piano, and have read over 300 books.
 
-💬 Need help with a project? Reach out, and let's chat!
-
 📫 How to reach me: devin@ambronenterprises.com
